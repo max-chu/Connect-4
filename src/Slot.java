@@ -1,8 +1,5 @@
-
-/**
- * Slot class to represent a Connect Four Slot.
- * @author celaltemiz
- */
+// Slot class for each of the connect 4 slots
+ 
 public class Slot {
 
     private char SlotPosition;
